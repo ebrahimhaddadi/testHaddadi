@@ -53,8 +53,8 @@ const styles=StyleSheet.create({
         fontFamily:"Vazir"
     },
     img:{
-        width:165,
-        height:165,
+        width:170,
+        height:170,
         borderWidth:2,
         borderRadius:90,
         borderStyle:"dashed",
@@ -62,7 +62,8 @@ const styles=StyleSheet.create({
     },
     selectimgtext:{ 
         fontFamily:"Vazir",
-        marginRight:5
+        marginRight:5,
+        color:'#ffffff',
 },
     image:{
         borderRadius:90,
@@ -88,7 +89,7 @@ const styles=StyleSheet.create({
     },
     phonenumber:{
         marginTop:20,
-        fontFamily:"Vazir"
+        fontFamily:"Iranian Sans"
     },
     person:{
         marginTop:15,
@@ -211,6 +212,8 @@ const styles=StyleSheet.create({
     },
     logintext:{
         fontFamily:"Vazir",
+        color:'#ffffff',
+        fontSize:18
         
     }
 
